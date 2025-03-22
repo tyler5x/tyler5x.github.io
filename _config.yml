@@ -2,13 +2,13 @@
 title               : Tyler Smithline Portfolio
 description         : >-
                       Hi, I’m Tyler. I’m a roboticist with a strong interest in computer vision, machine learning, and mechatronics. test
-url: "https://tylersmithline.com"
+url: "tylersmithline.com"
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : tyler5x/tyler5x.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : true                   # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-
+gi
 ### Plugins ###
 plugins:
   - jemoji
