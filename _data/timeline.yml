@@ -1,0 +1,47 @@
+- title: Software Engineering Intern, MathWorks
+  from: May 2024
+  to: August 2024
+  description: I developed a MATLAB tool that constructs GPS messages in accordance with industry-standard formatting requirements. 
+              Additionally, I revamped the test suite to enhance its efficiency, achieving an 80% reduction in runtime while maintaining 
+              full test coverage. I also led the initiative to migrate the Gazebo simulation test suite from a VM-based to a Docker-based workflow, 
+              streamlining the testing process and improving overall performance.
+
+- title: Test Engineering Intern, Tesla
+  from: May 2023
+  to: August 2023
+  description: I initiated the design and prototyping of a non-destructive crack measurement device using the AC Potential Difference method, 
+    conducting sensitivity and power output testing to validate the equipment. 
+    Additionally, I created a Python pipeline to digitally filter out signals 
+    outside of the desired frequency range and attenuate noise, ensuring more accurate measurements.
+
+- title: Mechatronics Intern, J&J Surgical Robotics
+  from: May 2022
+  to: August 2022
+  description: I designed custom test fixtures to ensure surgical robot components complied with regulatory standards and internal design constraints. 
+    These fixtures required custom mechanical, electrical, and control systems and testing tasks included lifecycle, impact, and deflection testing 
+    under applied loads. I programmed extensively in the Arduino IDE to integrate a suite of sensors, actuators, and manual user controls into a reliable test setup.
+
+- title: Sustaining Engineering Intern, Formlabs
+  from: May 2021
+  to: August 2021
+  description: I was on the Sustaining Engineering Team, where I diagnosed and resolved problems for SLA and SLS printers.
+   Some projects included improving resin tracking accuracy scripts, 
+   reducing packaging weight, and investigating the cause of poor LED 
+   calibrations and unexpected RTD values.
+
+- title: Manufacturing Engineering Intern, Tesla
+  from: January 2021
+  to: May 2021
+  description: I was part of the Model 3 General Assembly Equipment Engineering Team, where I designed manufacturing equipment for 
+    assembly line improvement projects. I worked with process, safety, and ergonomics teams to develop design constraints for
+    equipment solutions that reduced headcount, cycle times, and factory space. I also worked with other manufacturing engineers 
+    to develop and refine my designs and with fabrication shops to make the parts. Some of my projects included designing locking 
+    dollies and docking stations to reliably transport vehicle components within the factory, as well as actuating door supports 
+    that hold the Model 3 doors in the right place while bolts are installed.
+
+- title: Mechanical Engineering Intern, Dupont
+  from: August 2020
+  to: December 2020
+  description: I worked with mechanical and industrial engineers to improve the reliability and efficiency of manufacturing processes.
+   Some projects included designing new equipment to reduce cycle times and increase tool longevity, visualizing and analyzing part 
+   data from the testing lab, and using VBA to schedule maintenance tasks based on PM schedules and man hours available.

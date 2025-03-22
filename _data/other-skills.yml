@@ -1,0 +1,7 @@
+- name: SolidWorks
+  percentage: 95
+  color: info
+
+- name: Fabrication
+  percentage: 90
+  color: success
