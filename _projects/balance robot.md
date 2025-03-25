@@ -1,11 +1,11 @@
 ---
 name: Autonomous Balancing Robot
 tools: [Autonomy, Computer Vision, Embedded Systems]
-image: ../media/balance_robot.jpg
+image: ../media/balance_robot/balance_robot.jpg
 description: A self-balancing segway robot that uses computer vision for line following.
 external_url: https://www.hackster.io/500844/me-461-final-project-line-following-segway-robot-b88849
 ---
-(This desciption is taken from hackster)
+<!-- (This desciption is taken from hackster)
 
 ![preview](media/balance_robot.jpg)
 
@@ -29,4 +29,4 @@ Unfortunately, these theta() and rho() values are not that useful on their own s
 The robot has three integrated IR distance sensors for obstacle detection and avoidance. The sensors are pointed forward-left, forward-right, and straight forward from the robot. Each sensor attaches to a 3x1 soldered header with connections to a 3.3V supply rail (Vcc), a ground rail (GND), and an output signal (Vo). The output signals are limited to 3.3V via an onboard protection chip and passed to the F28379D ADC-D. A start-of-conversion (SOC) for each channel is triggered using the ePWM5 signal with a 1ms period. Once all sensor values have been converted, the ADCD_ISR interrupt function will be called which reads and stores the values. The analog voltages from the IR sensors are converted into integer values between 0 and 4095, where a higher value means a shorter distance. If any of the IR sensors provide a value greater than an arbitrarily determined threshold of 2000, the robot will flag that an obstacle has been detected and enter an Avoid Obstacle state.
 
 We use LabVIEW and an ESP8266 in order to plot the route taken by the robot. The Segbot uses the optical encoders in order to determine its pose and bearing in feet and radians, which is then sent to Labview as a string. The pose and bearing is constantly updated as the Segbot traverses the obstacle course. Then, LabVIEW converts that string into two separate coordinates as integers and scales it to fit in a 700 by 700 pixel square. LabVIEW then takes those two coordinates and draws a blue square as the current position of the robot. The output of this program is shown in Figure 3.
-
+ -->
