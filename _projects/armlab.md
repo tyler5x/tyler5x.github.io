@@ -86,13 +86,3 @@ We also implemented an OpenCV block detection system that determines the size, c
 </div>
 <br>
 
-
-<!-- # The Movies Project
-
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](../media/balance_robot.jpg)
-
-## Search Movies
-
-
