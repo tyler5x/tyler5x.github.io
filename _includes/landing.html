@@ -1,0 +1,18 @@
+<div class="row justify-content-center align-items-center p-4">
+    <div class="col-lg-6 col-md-8 text-center mt-4">
+    
+      <!-- Fine Circle Responsive Image -->
+      <div id="container" class="my-2 d-flex justify-content-center align-items-center" style="height: 525px;">
+        <div id="dummy"></div>
+        <!-- <div id="element"> -->
+        <div id="element" class="d-flex justify-content-center">
+          <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s" style="width: 500px; height: 500px;">
+        </div>
+      </div>
+    
+      <!-- <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p> -->
+      <p class="text-muted wow animated slideInUp custom-text-width" data-wow-delay=".15s" style="width: 100%; margin-top: 10px; margin-left: auto; margin-right: auto;">{{ site.description | markdownify }}</p>
+      <!-- <p class="text-muted wow animated slideInUp custom-text-width" data-wow-delay=".15s">{{ site.description }}</p> -->
+    </div>
+  </div>
+  

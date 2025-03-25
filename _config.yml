@@ -2,6 +2,9 @@
 title               : Tyler Smithline Portfolio
 description         : >-
                       Hi, I’m Tyler. I’m a roboticist with a strong interest in computer vision, machine learning, and mechatronics. 
+                      I love working at the intersection of software and hardware to make things work. This portfolio covers the 
+                      [robot software & controls projects](projects) I've been working on in grad school. Some of my older mechanical design projects
+                      can be found in my old [mechanical portfolio](https://tylersmithline.wixsite.com/portfolio){:target="_blank"}. 
 url                 : "tylersmithline.com"
 # url: "https://tyler5x.github.io"
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
