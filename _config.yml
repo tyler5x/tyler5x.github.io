@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Tyler Smithline Portfolio
 description         : >-
-                      Hi, I’m Tyler. I’m a roboticist with a strong interest in computer vision, machine learning, and mechatronics. test
+                      Hi, I’m Tyler. I’m a roboticist with a strong interest in computer vision, machine learning, and mechatronics. 
 url                 : "tylersmithline.com"
 # url: "https://tyler5x.github.io"
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
