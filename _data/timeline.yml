@@ -1,18 +1,22 @@
 - title: Software Engineering Intern, MathWorks
   from: May 2024
   to: August 2024
-  description: I developed a MATLAB tool that constructs GPS messages in accordance with industry-standard formatting requirements. 
-              Additionally, I revamped the test suite to enhance its efficiency, achieving an 80% reduction in runtime while maintaining 
-              full test coverage. I also led the initiative to migrate the Gazebo simulation test suite from a VM-based to a Docker-based workflow, 
-              streamlining the testing process and improving overall performance.
+  description: I was part of the software quality team, where I worked on creating robust test suites to ensure the reliability and runtime
+              efficiency of MATLAB functions in the DSP and robotics toolboxes. I improved the performance of many test suites, and was able to achieve
+              as much as 80% reduction in runtime while maintaining full test coverage. I also led an initiative to migrate a Gazebo
+              simulation test suite from a VM-based to a Docker-based workflow, streamlining the testing process and improving overall performance.
+              Other projects include developing MATLAB function prototypes, including one that constructs GPS messages in accordance with 
+              industry-standard formatting requirements. 
 
 - title: Test Engineering Intern, Tesla
   from: May 2023
   to: August 2023
-  description: I initiated the design and prototyping of a non-destructive crack measurement device using the AC Potential Difference method, 
-    conducting sensitivity and power output testing to validate the equipment. 
-    Additionally, I created a Python pipeline to digitally filter out signals 
-    outside of the desired frequency range and attenuate noise, ensuring more accurate measurements.
+  description: I designed and ran experiments to investigate the performance of electrical busbars under changing power and thermal conditions. 
+    To optimize the testing process, I built a custom test fixture to increase testing throughput by 200%, and I analyzed data in python to 
+    inform future testing and decision making. I also initiated the design and prototyping of a non-destructive crack measurement device 
+    that used the AC Potential Difference method to measure the depth of cracks in die-cast tooling. This required designing custom equipment 
+    to take precise measurements and conducting sensitivity and power output testing to validate the equipment. Additionally, I created a 
+    Python pipeline to digitally filter out signals outside of the desired frequency range and attenuate noise, ensuring more accurate measurements.
 
 - title: Mechatronics Intern, J&J Surgical Robotics
   from: May 2022

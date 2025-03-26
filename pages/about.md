@@ -20,6 +20,8 @@ When I'm not designing or building things, I like to spend time playing soccer, 
 
 # **Work Experience**
 
+View a [pdf of my resume](../media/Tyler_Smithline_Resume_Robotics.pdf){:target="_blank"}.
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
