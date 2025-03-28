@@ -20,7 +20,7 @@ and mathematical derivations.
 ## Results
 Below is a video of the robot autonomously sorting small and large blocks into separate stacks on either side of the arm. The vision
 system had to distinguish between the small blocks stacked on top of the larger blocks and the vision, calibration, and kinematics all
-needed to be precise to stack the blocks.
+needed to be precise to stack the blocks. The stacking worked well on most occasions but not all - there's certainly room for improvement.
 
 <div style="text-align: center;">
     <!-- <iframe src="https://youtu.be/EOz6ubrqf-s" width="800" height="480" frameborder="0" allow="autoplay" allowfullscreen></iframe> -->
