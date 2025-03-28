@@ -1,6 +1,6 @@
 ---
 name: Autonomous Balancing Robot
-tools: [Autonomy, Computer Vision, Embedded Systems]
+tools: [Autonomy, Computer Vision, Embedded Systems, Communication Protocols]
 image: ../media/balance_robot/balance_robot.jpg
 description: A self-balancing segway robot that uses computer vision for line following.
 external_url: https://www.hackster.io/500844/me-461-final-project-line-following-segway-robot-b88849

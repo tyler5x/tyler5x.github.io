@@ -1,13 +1,13 @@
 ---
 name: Combat Robot
-tools: [SolidWorks, Wiring, Shop Tools]
+tools: [SolidWorks, Wiring, Soldering, Shop Tools, Microcontrollers]
 image: ../media/combot/combot.jpeg
 description: A 30 lb. Vertical Spinning Combat Robot built in a shop
 # external_url: https://www.google.com
 ---
 
 # 30 lb Vertical Spinner Combat Robot
-
+![preview](../media/combot/combot.jpeg)
 As part of iRobotics at the University of Illinois, I was part of a team that build a new combat robot each school year. This robot,
 Caffeine Addiction, was my senior year robot. 
 I designed the entirety of the robot in SolidWorks, and worked with one other person who handled the majority
@@ -20,11 +20,11 @@ Some of Caffeine Addiction's fights!
 
 ### Robobrawl 2023
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
     <!-- Lumber ducky -->
-    <iframe width="420" height="240" src="https://www.youtube.com/embed/Otf3NGctwWY" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+    <iframe width="440" height="240" src="https://www.youtube.com/embed/Otf3NGctwWY" frameborder="0" allow="autoplay" allowfullscreen></iframe>
     <!-- James -->
-    <iframe width="420" height="240" src="https://www.youtube.com/embed/glbz3jwq8_U" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+    <iframe width="440" height="240" src="https://www.youtube.com/embed/glbz3jwq8_U" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 </div>
 <br>
 
