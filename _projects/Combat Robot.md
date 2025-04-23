@@ -15,6 +15,19 @@ of the wiring and electrical integration. We competed the robot in Robobrawl, th
 in 2023 and I brought the robot back to compete again in 2024. We struggled with electrical issues in our first competion but I secured
 a 2nd place finish in 2024. 
 
+I plan to update this page with more technical information in the future. For now, check out some slides I made with more photos and high-level design considerations. 
+
+<div style="max-width: 1000px; margin: 0 auto;">
+  <iframe 
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQ91W5iRZXGYZ78iowpjGeH9mWnL-Oxg9PRT_RuA-oj3Ojp27jXdJfAHN0aX8eTZWB2gsTtPYUlsUKZ/pubembed?start=false&     loop=false&delayms=30000"
+    frameborder="0" width="100%" height="550px" 
+    allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+  </iframe>
+</div>
+
+<!-- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ91W5iRZXGYZ78iowpjGeH9mWnL-Oxg9PRT_RuA-oj3Ojp27jXdJfAHN0aX8eTZWB2gsTtPYUlsUKZ/pubembed?start=false&     loop=false&delayms=30000"
+            frameborder="0" width="960" height="569" allowfullscreen></iframe> -->
+
 ## Fight Videos
 Some of Caffeine Addiction's fights! 
 
