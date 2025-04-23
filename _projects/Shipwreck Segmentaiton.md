@@ -2,7 +2,7 @@
 name: Shipwreck Segmentation
 tools: [PyTorch, Deep Learning, Image Processing, Experimental Design]
 image: ../media/segmentation/segment.jpg
-description: A 30 lb. Vertical Spinning Combat Robot built in a shop
+description: Image Segmentation Using U-Net
 # external_url: https://www.google.com
 ---
 
