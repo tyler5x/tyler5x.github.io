@@ -17,7 +17,7 @@ I will come back and add more technical detail in the future; For now, please ta
 
 <div style="max-width: 1000px; margin: 0 auto;">
   <iframe 
-    src="https://docs.google.com/presentation/d/e/2PACX-1vT61yz4AJ3yJB4_-7wJcsdXPd7KRZRqq58DKBYP50olgFVjWcjgquq-LCoI61l3BxZzAwkpnPMSyxw4/pubembed?start=true&loop=false&delayms=30000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSp7rXooUVYhjrFyBV1YMdYPPd0Uiy6KxOufTRdvL7gMIkSiG5qs9GqFUxCcMjuz3xzjKBMGnFEoxFz/pubembed?start=false&loop=false&delayms=30000"
     frameborder="0" width="100%" height="550px" 
     allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
   </iframe>
