@@ -1,5 +1,5 @@
 ---
-name: Tumble Dry
+name: 3lb Combat Robot
 tools: [SolidWorks, Wiring, Soldering, Shop Tools, Mechatronics]
 image: ../media/tumble_dry/tumble_dry.jpg
 description: A 3 lb. Egg Beater Combat Robot 

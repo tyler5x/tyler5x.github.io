@@ -1,5 +1,5 @@
 ---
-name: Combat Robot
+name: 30lb Combat Robot
 tools: [SolidWorks, Wiring, Soldering, Shop Tools, Microcontrollers]
 image: ../media/combot/combot.jpeg
 description: A 30 lb. Vertical Spinning Combat Robot built in a shop
